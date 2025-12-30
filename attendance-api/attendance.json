@@ -1,0 +1,96 @@
+{
+    "2025-07-30": [
+        {
+            "name": "Staff 1",
+            "time": "11:06:43"
+        },
+        {
+            "name": "awatif",
+            "time": "12:54:52"
+        }
+    ],
+    "2025-08-04": [
+        {
+            "id": "452886a0-c949-45b0-9e05-dd7f4df4fea0",
+            "name": "dayana",
+            "time": "15:36:11"
+        },
+        {
+            "id": "ccd122e7-6b7b-4dc0-b7f8-bf16be886aef",
+            "name": "awatif",
+            "time": "15:36:29"
+        }
+    ],
+    "2025-08-05": [
+        {
+            "id": "6d2e2eee-11bd-4c44-af4a-42f5898ba9ba",
+            "name": "dayana",
+            "time": "15:15:07"
+        }
+    ],
+    "2025-08-06": [
+        {
+            "id": "7eb4acdb-2f7b-4219-8157-4fb9c573bfa3",
+            "name": "awatif",
+            "time": "09:46:49"
+        }
+    ],
+    "2025-08-07": [
+        {
+            "id": "7183df27-9238-4fe9-be54-cea9490a1c07",
+            "name": "dayana",
+            "time": "08:54:50"
+        },
+        {
+            "id": "78bc3e03-fd4a-4d70-8fa2-879f9f507692",
+            "name": "awatif",
+            "time": "08:56:25"
+        }
+    ],
+    "2025-09-08": [
+        {
+            "id": "90e5d016-afb6-4d39-8aa3-6b040deac482",
+            "name": "known_faces",
+            "time": "16:24:55"
+        }
+    ],
+    "2025-09-09": [
+        {
+            "id": "794cfd9b-da15-45e3-8bda-b47f6fb5437e",
+            "name": "PUTERI_NURDAYANA_BATRISYA_BINTI_MD_HASBI",
+            "time": "15:31:35"
+        }
+    ],
+    "2025-10-03": [
+        {
+            "id": "bb34ada6-f36b-4ca0-b9ed-9d72f205d305",
+            "name": "PUTERI_NURDAYANA_BATRISYA_BINTI_MD_HASBI",
+            "time": "15:42:42"
+        }
+    ],
+    "2025-12-16": [
+        {
+            "id": "e34d7c7a-364c-4894-ad45-b81e03e71596",
+            "name": "PUTERI_NURDAYANA_BATRISYA_BINTI_MD_HASBI",
+            "time": "12:29:40"
+        },
+        {
+            "id": "173ce1be-d159-4f62-a1f9-86681bb5a30e",
+            "name": "NUR_AWATIF_BINTI_MOHAMED_HUD",
+            "time": "16:37:35"
+        },
+        {
+            "id": "47c885bb-ef59-485b-a287-b14735a6f7ff",
+            "name": "known_faces",
+            "time": "16:38:28"
+        }
+    ],
+    "2025-12-23": [
+        {
+            "id": "932d5cb8-800e-48dd-8585-0a274ee3bea0",
+            "name": "PUTERI_NURDAYANA_BATRISYA_BINTI_MD_HASBI",
+            "department": "-",
+            "time": "15:12:33"
+        }
+    ]
+}
