@@ -156,4 +156,3 @@ This project is for educational purposes.
 
 ---
 
-**Note:** Repo ni adalah PRIVATE. Kalau SV/lecturer nak access, awak kena add mereka sebagai collaborator atau set repo to Public.
