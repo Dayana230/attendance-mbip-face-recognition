@@ -151,6 +151,9 @@ attendance-mbip-face-recognition/
 **Dayana**  
 GitHub: [@Dayana230](https://github.com/Dayana230)
 
+<img width="688" height="482" alt="image" src="https://github.com/user-attachments/assets/3076c1f4-6e56-4e0b-80c6-a21d608d3094" />
+
+
 ## 📄 License
 This project is for educational purposes.
 
